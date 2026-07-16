@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+  
 <!--
 **523h0195-byte/523h0195-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+'
+  my_determine = "I'm on a learning journey\n Keep going"
+  print(my_determine)
+'
+> Always learning, always adapting
+
+<img width="1188" height="645" alt="Screenshot 2026-07-09 at 09 42 40" src="https://github.com/user-attachments/assets/71c37bbe-34a6-4df5-8f74-09ce439c344f" />
