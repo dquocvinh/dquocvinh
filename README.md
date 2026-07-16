@@ -1,4 +1,4 @@
-## Hi there 👋 I'm [Your Name]
+## Hi there 👋 I'm Quoc Vinh
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/71c37bbe-34a6-4df5-8f74-09ce439c344f" width="100%" alt="Banner Showcase" />
@@ -11,7 +11,7 @@ I am a fourth-year **Computer Science** student at **Ton Duc Thang University**,
 * **🔭 Current Focus:** Deep Learning architectures and building production-ready **Generative AI** & **Agentic AI** systems.
 * **🌱 Learning Journey:** Scaling Large Language Model (LLM) agents, prompt engineering frameworks, and retrieval-augmented generation (RAG).
 * **💬 Ask me about:** Python, Machine Learning workflows, and neural network concepts.
-* **📫 How to reach me:** [Insert your Email or LinkedIn Link]
+* **📫 How to reach me:** [Gmail](bearastrikingresemblance@gmail.com) and [Facebook](https://www.facebook.com/8129029sng)
 
 ---
 
