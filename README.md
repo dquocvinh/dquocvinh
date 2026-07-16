@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 > Always learning, always adapting
 
 <img width="1188" height="645" alt="Screenshot 2026-07-09 at 09 42 40" src="https://github.com/user-attachments/assets/71c37bbe-34a6-4df5-8f74-09ce439c344f" />
+
+---
+**KEEP GOING**
+
+<img width="500" height="523" alt="dragon ball z 90s GIF" src="https://github.com/user-attachments/assets/f18d31a5-ab47-4efa-b486-ea9a3485f275" />
+
