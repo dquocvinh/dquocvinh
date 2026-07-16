@@ -1,30 +1,30 @@
-## Hi there 👋
-  
-<!--
-**523h0195-byte/523h0195-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm [Your Name]
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/71c37bbe-34a6-4df5-8f74-09ce439c344f" width="100%" alt="Banner Showcase" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 About Me
 
-'
-  my_determine = "I'm on a learning journey\n Keep going"
-  print(my_determine)
-'
-> Always learning, always adapting
+I am a fourth-year **Computer Science** student at **Ton Duc Thang University**, currently focusing on my seminar and research. I'm deeply passionate about bridging the gap between theoretical data science and cutting-edge software systems.
 
-<img width="1188" height="645" alt="Screenshot 2026-07-09 at 09 42 40" src="https://github.com/user-attachments/assets/71c37bbe-34a6-4df5-8f74-09ce439c344f" />
+* **🔭 Current Focus:** Deep Learning architectures and building production-ready **Generative AI** & **Agentic AI** systems.
+* **🌱 Learning Journey:** Scaling Large Language Model (LLM) agents, prompt engineering frameworks, and retrieval-augmented generation (RAG).
+* **💬 Ask me about:** Python, Machine Learning workflows, and neural network concepts.
+* **📫 How to reach me:** [Insert your Email or LinkedIn Link]
 
 ---
-**KEEP GOING**
 
-<img width="500" height="523" alt="dragon ball z 90s GIF" src="https://github.com/user-attachments/assets/f18d31a5-ab47-4efa-b486-ea9a3485f275" />
+### 💻 My Philosophy
 
+```python
+my_determine = "I'm on a learning journey\n Keep going"
+print(my_determine)
+````
+
+# ⚡ What Drives Me
+I believe the future lies in autonomous, intelligent systems that can adapt dynamically to human needs. Every project I build is a step closer to mastering that future.
+
+---
+That's all about me.
+Thank you for stopping by! Feel free to explore my repositories or reach out for collaborations.
