@@ -30,9 +30,13 @@ I believe the future lies in autonomous, intelligent systems that can adapt dyna
 ### 🐍 My Contribution Snake
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/dquocvinh/dquocvinh/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" width="100%" />
+</div>
 
-<img src="https://raw.githubusercontent.com/dquocvinh/dquocvinh/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" width="100%" />
+### 📊 GitHub Metrics
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dquocvinh/dquocvinh/output/metrics.svg" alt="GitHub metrics" width="100%" />
 </div>
 
 ---
