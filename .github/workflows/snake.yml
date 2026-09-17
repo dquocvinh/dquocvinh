@@ -2,9 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    # Chạy lúc 00:00 UTC mỗi ngày
     - cron: "0 0 * * *"
-  workflow_dispatch:          # Cho phép chạy thủ công từ GitHub UI
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -13,8 +12,9 @@ jobs:
   generate:
     permissions:
       contents: write
+
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
@@ -27,6 +27,12 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: dist/metrics.svg
 
       - name: Push output to `output` branch
         uses: crazy-max/ghaction-github-pages@v4
