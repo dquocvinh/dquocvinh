@@ -26,5 +26,15 @@ print(my_determine)
 I believe the future lies in autonomous, intelligent systems that can adapt dynamically to human needs. Every project I build is a step closer to mastering that future.
 
 ---
+
+### 🐍 My Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/dquocvinh/dquocvinh/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" width="100%" />
+
+</div>
+
+---
 That's all about me.
 Thank you for stopping by! Feel free to explore my repositories or reach out for collaborations.
